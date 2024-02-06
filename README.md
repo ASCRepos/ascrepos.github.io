@@ -23,7 +23,7 @@ For more information about interception, please refer to [Castle Core](https://g
 
 | Platforms       | Master       | Develop    |
 |-----------------|-------------:|------------|
-| Windows|[![Build Status](https://dev.azure.com/HamzaLee/dotnetcore-di-interception/_apis/build/status/HamzaLee.dotnetcore-di-interception?branchName=master)](https://dev.azure.com/HamzaLee/dotnetcore-di-interception/_build/latest?definitionId=1&branchName=master) |[![Build Status](https://dev.azure.com/HamzaLee/dotnetcore-di-interception/_apis/build/status/HamzaLee.dotnetcore-di-interception?branchName=develop)](https://dev.azure.com/HamzaLee/dotnetcore-di-interception/_build/latest?definitionId=1&branchName=develop)
+| Windows|[![Build Status](https://github.com/ASCRepos/BuildingSolutionsAPI/tree/dev) |[![Build Status](https://github.com/ASCRepos/BuildingSolutionsAPI/tree/dev)
 
 ## Tests
 
