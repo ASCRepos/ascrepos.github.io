@@ -33,9 +33,9 @@ For more information about interception, please refer to [Castle Core](https://g
 
 ## Issues
 
-[![GitHub issues](https://img.shields.io/github/issues/HamzaLee/dotnetcore-di-interception)](https://github.com/HamzaLee/dotnetcore-di-interception/issues)
+[![GitHub issues](https://img.shields.io/github/issues/HamzaLee/dotnetcore-di-interception)](https://github.com/TapInnovAdmin/TapInnov-Master/issues)
 
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/HamzaLee/dotnetcore-di-interception)](https://github.com/HamzaLee/dotnetcore-di-interception/pulls)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/HamzaLee/dotnetcore-di-interception)](https://github.com/TapInnovAdmin/TapInnov-Master/pulls)
 
 ## Release
 
